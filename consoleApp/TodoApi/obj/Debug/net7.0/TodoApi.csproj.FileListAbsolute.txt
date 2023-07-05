@@ -1,0 +1,7 @@
+/Users/florianspedalotto/consoleApp/TodoApi/obj/Debug/net7.0/TodoApi.csproj.AssemblyReference.cache
+/Users/florianspedalotto/consoleApp/TodoApi/obj/Debug/net7.0/TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/florianspedalotto/consoleApp/TodoApi/obj/Debug/net7.0/TodoApi.AssemblyInfoInputs.cache
+/Users/florianspedalotto/consoleApp/TodoApi/obj/Debug/net7.0/TodoApi.AssemblyInfo.cs
+/Users/florianspedalotto/consoleApp/TodoApi/obj/Debug/net7.0/TodoApi.csproj.CoreCompileInputs.cache
+/Users/florianspedalotto/consoleApp/TodoApi/obj/Debug/net7.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/florianspedalotto/consoleApp/TodoApi/obj/Debug/net7.0/TodoApi.MvcApplicationPartsAssemblyInfo.cache
