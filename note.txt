@@ -1,0 +1,10 @@
+Depuis .NET tout le code qui permet de definir la classe programme et la methode main
+namespace 1 conteneur qui contient des class
+
+
+
+faie une api 
+db connecter 
+.net db
+
+faire model 

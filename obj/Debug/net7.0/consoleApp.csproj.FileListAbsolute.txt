@@ -1,0 +1,15 @@
+/Users/florianspedalotto/consoleApp/obj/Debug/net7.0/consoleApp.csproj.AssemblyReference.cache
+/Users/florianspedalotto/consoleApp/obj/Debug/net7.0/consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/florianspedalotto/consoleApp/obj/Debug/net7.0/consoleApp.AssemblyInfoInputs.cache
+/Users/florianspedalotto/consoleApp/obj/Debug/net7.0/consoleApp.AssemblyInfo.cs
+/Users/florianspedalotto/consoleApp/obj/Debug/net7.0/consoleApp.csproj.CoreCompileInputs.cache
+/Users/florianspedalotto/consoleApp/bin/Debug/net7.0/consoleApp
+/Users/florianspedalotto/consoleApp/bin/Debug/net7.0/consoleApp.deps.json
+/Users/florianspedalotto/consoleApp/bin/Debug/net7.0/consoleApp.runtimeconfig.json
+/Users/florianspedalotto/consoleApp/bin/Debug/net7.0/consoleApp.dll
+/Users/florianspedalotto/consoleApp/bin/Debug/net7.0/consoleApp.pdb
+/Users/florianspedalotto/consoleApp/obj/Debug/net7.0/consoleApp.dll
+/Users/florianspedalotto/consoleApp/obj/Debug/net7.0/refint/consoleApp.dll
+/Users/florianspedalotto/consoleApp/obj/Debug/net7.0/consoleApp.pdb
+/Users/florianspedalotto/consoleApp/obj/Debug/net7.0/consoleApp.genruntimeconfig.cache
+/Users/florianspedalotto/consoleApp/obj/Debug/net7.0/ref/consoleApp.dll
