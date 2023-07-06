@@ -25,5 +25,6 @@
     <Content Include="Model\TodoContext.cs" />
     <Content Include="PutTodoItem" />
     <Content Include="DeleteTodoItem" />
+    <Content Include="Controllers\TodoItemsController" />
   </ItemGroup>
 </Project>
